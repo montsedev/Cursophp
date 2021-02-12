@@ -26,6 +26,5 @@ id int(11),
 nombre      varchar(100),
 apellidos     varchar(255),
 email           varchar(255),
-password     varchar(255),
-direccion varchar(255)
+password     varchar(255)
 );
